@@ -24,3 +24,9 @@ Make sure that the username and password are correct for both the MySQL and Post
 Ensure that the database names and table names match exactly between the two databases.
 Check the pgLoader configuration file for any syntax errors or typos.
 Conclusion: In this example, we used pgLoader to transfer the employee table from a MySQL database to a PostgreSQL database. pgLoader provides a powerful and flexible way to transfer data between different databases, making it an ideal tool for data migration and integration tasks. By following these steps and troubleshooting common issues, you can use pgLoader to transfer data between MySQL and PostgreSQL databases with ease.
+
+#Output of the Task
+
+![Image](https://github.com/user-attachments/assets/2e1d5c86-2410-424f-9c0b-f93501a2aab3)
+
+![Image](https://github.com/user-attachments/assets/a5cc8905-3740-412d-96df-331f5fe78078)
